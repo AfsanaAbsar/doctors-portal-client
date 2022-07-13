@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Teeth Cleaning",
+        "slots": [
+            "09.00 AM - 09.30AM",
+            "10.00 AM - 10.30AM",
+            "11.00 AM - 11.30AM",
+            "12.00 PM - 12.30PM"
+        ]
+    },
+    {
+        "name": "Teeth Orthodontrics",
+        "slots": [
+            "09.00 AM - 09.30AM",
+            "10.00 AM - 10.30AM",
+            "11.00 AM - 11.30AM",
+            "12.00 PM - 12.30PM"
+        ]
+    },
+    {
+        "name": "Cosmetic Cleaning",
+        "slots": [
+            "09.00 AM - 09.30AM",
+            "10.00 AM - 10.30AM",
+            "11.00 AM - 11.30AM",
+            "12.00 PM - 12.30PM"
+        ]
+    },
+    {
+        "name": "Cavity Treatment",
+        "slots": [
+            "08.00 AM - 08.30AM",
+            "09.00 AM - 09.30AM",
+            "10.00 AM - 10.30AM",
+            "11.00 AM - 11.30AM",
+            "12.00 PM - 12.30PM"
+        ]
+    },
+    {
+        "name": "Teeth Cleaning",
+        "slots": [
+            "09.00 AM - 09.30AM",
+            "10.00 AM - 10.30AM",
+            "11.00 AM - 11.30AM",
+            "12.00 PM - 12.30PM"
+        ]
+    },
+    {
+        "name": "Teeth Orthodontrics",
+        "slots": [
+            "09.00 AM - 09.30AM",
+            "10.00 AM - 10.30AM",
+            "11.00 AM - 11.30AM",
+            "12.00 PM - 12.30PM"
+        ]
+    }
+]
